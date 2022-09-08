@@ -1,11 +1,5 @@
 # Buisness-Portfolio-App-with-admin-panel
 
-import com.csform.businessportfolio.model.Categories;
-import com.csform.businessportfolio.model.Clients;
-import com.csform.businessportfolio.model.OurTeams;
-import com.google.gson.Gson;
-import com.google.gson.JsonIOException;
-import com.google.gson.JsonSyntaxException;
 
 public class SyncDataHelper {
 //Replace with your own base url
