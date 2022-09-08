@@ -1,0 +1,4 @@
+#Fri Nov 12 07:51:11 PST 2021
+base.0=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\Buisness portfolio app\\BusinessPortfolio\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

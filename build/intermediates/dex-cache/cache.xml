@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\google-play-services_lib\libs\google-play-services.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7676c0cb230efa6ac41c47867d372ed5913029d4">
+        <dex dex="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\libs\universal-image-loader.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\libs\android-support-v4.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\libs\gallery-lib.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e99b23840e364405f578e3d75d5ddde501837d59">
+        <dex dex="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\google-play-services_lib\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b3bcb5536ea426fbf9981ab8906f0bdf84b0fe06">
+        <dex dex="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="26.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR ADMOB\Buisness portfolio app\BusinessPortfolio\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

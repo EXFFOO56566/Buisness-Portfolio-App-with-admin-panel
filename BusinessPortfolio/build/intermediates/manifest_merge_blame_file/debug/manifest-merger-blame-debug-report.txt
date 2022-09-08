@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tochycomputerservices.portfolio"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="18"
+8-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="27" />
+9-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:9:5-67
+11-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:9:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:10:5-79
+12-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:10:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:11:5-81
+13-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:11:22-78
+14    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+14-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:12:5-72
+14-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:12:22-69
+15    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+15-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:13:5-98
+15-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:13:22-95
+16
+17    <uses-feature
+17-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:15:5-17:35
+18        android:glEsVersion="0x00020000"
+18-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:16:9-41
+19        android:required="true" />
+19-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:17:9-32
+20
+21    <application
+21-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:19:5-58:19
+22        android:allowBackup="true"
+22-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:20:9-35
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:21:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:22:9-41
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:23:9-40
+28        <meta-data
+28-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:24:9-26:69
+29            android:name="com.google.android.gms.version"
+29-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:25:13-58
+30            android:value="@integer/google_play_services_version" />
+30-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:26:13-66
+31        <meta-data
+31-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:27:9-29:71
+32            android:name="com.google.android.maps.v2.API_KEY"
+32-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:28:13-62
+33            android:value="AIzaSyCeOaxXjSnGw7mLpLerG07ubUh7Hp7tdZo" />
+33-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:29:13-68
+34
+35        <activity
+35-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:31:9-40:20
+36            android:name="com.csform.businessportfolio.MainActivity"
+36-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:32:13-69
+37            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale"
+37-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:33:13-186
+38            android:label="@string/app_name" >
+38-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:34:13-45
+39            <intent-filter>
+39-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:35:13-39:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:36:17-69
+40-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:36:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:38:17-77
+42-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:38:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:41:9-44:20
+46            android:name="com.csform.businessportfolio.MapActivity"
+46-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:42:13-68
+47            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
+47-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:43:13-186
+48        </activity>
+49        <activity
+49-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:45:9-47:125
+50            android:name="com.google.android.gms.ads.AdActivity"
+50-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:46:13-65
+51            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+51-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:47:13-122
+52        <activity
+52-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:48:9-51:20
+53            android:name="com.csform.onlinegallery.GalleryThumbActivity"
+53-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:49:13-73
+54            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
+54-->C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\Buisness portfolio app\BusinessPortfolio\AndroidManifest.xml:50:13-186
+55        </activity>
+56        <!--
+57        <activity
+58            android:name="com.csform.onlinegallery.FullScreenGalleryActivity"
+59            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|layoutDirection|fontScale" >
+60        </activity>
+61        -->
+62    </application>
+63
+64</manifest>

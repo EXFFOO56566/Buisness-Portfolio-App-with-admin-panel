@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\Buisness portfolio app\\BusinessPortfolio\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\Buisness portfolio app\\BusinessPortfolio\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "2,6,11,15",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "78,232,501,689",
+                        "endLines": "4,9,13,25",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "224,493,681,1385"
+                    },
+                    "to": {
+                        "startLines": "2,5,9,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,204,467,650",
+                        "endLines": "4,8,11,22",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "199,462,645,1336"
+                    }
+                }
+            ]
+        }
+    ]
+}

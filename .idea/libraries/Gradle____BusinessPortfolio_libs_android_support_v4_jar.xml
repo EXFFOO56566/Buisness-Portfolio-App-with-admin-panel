@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./BusinessPortfolio/libs/android-support-v4.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BusinessPortfolio/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

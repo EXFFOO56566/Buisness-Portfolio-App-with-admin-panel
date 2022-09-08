@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./BusinessPortfolio/libs/universal-image-loader.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BusinessPortfolio/libs/universal-image-loader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

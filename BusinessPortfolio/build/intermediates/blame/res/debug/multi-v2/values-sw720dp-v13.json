@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\Buisness portfolio app\\BusinessPortfolio\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\ALL ANDRIOD PROJECT FOLDER\\FOR PLAYSTORE\\MAIN\\PORTFOLIO APP (SPECAIL)\\Buisness portfolio app\\BusinessPortfolio\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endColumns": "59",
+                        "endOffsets": "114"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    }
+                }
+            ]
+        }
+    ]
+}

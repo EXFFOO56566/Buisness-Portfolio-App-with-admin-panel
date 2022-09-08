@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":4323030,"versionName":"4.3.23 (1069729-030)","enabled":true,"outputFile":"google-play-services_lib-debug.aar","fullName":"debug","baseName":"debug"},"path":"..\\..\\library_manifest\\debug\\AndroidManifest.xml","properties":{"packageId":"com.google.android.gms","split":""}}]
