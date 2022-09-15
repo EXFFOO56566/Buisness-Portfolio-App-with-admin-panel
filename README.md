@@ -27,3 +27,5 @@ public class SyncDataHelper {
 			closeReader(in);
 		}
 	}
+
+![alt text](https://github.com/tochyodikwa/Buisness-Portfolio-App-with-admin-panel/blob/master/Screenshot_20220622-115824_Tochy Computer Services.jpg?raw=true)
