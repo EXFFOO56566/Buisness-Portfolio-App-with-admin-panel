@@ -28,4 +28,4 @@ public class SyncDataHelper {
 		}
 	}
 
-![alt text](https://github.com/[tochyodikwa]/[Buisness-Portfolio-App-with-admin-panel]/blob/[Screenshot_20220622-115824_Tochy Computer Services]/image.jpg?raw=true)
+![Screenshot_20220622-115824_Tochy Computer Services](https://user-images.githubusercontent.com/83840753/190369302-5bc20e78-ee7c-420e-8323-fec0259e11f3.jpg)
